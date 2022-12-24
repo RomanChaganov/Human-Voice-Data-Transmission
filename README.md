@@ -1,2 +1,2 @@
-# Human-Voice-Data-Transmission
-Human_Voice_Data_Transmission
+# Human Voice Data Transmission
+Проект команды Gang Bros по преобразованию ненормального голоса в нормальный
